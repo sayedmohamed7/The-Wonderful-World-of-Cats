@@ -94,9 +94,7 @@ a:hover {
   border-top: 1px solid #334155;
 }
 
-.nav-links li:last-child {
-  border-bottom: 1px solid #334155;
-}
+
 
 .nav-links a {
   display: block;
